@@ -1562,3 +1562,13 @@
   site: "https://zaninidesign.com.br"
   facebook: "zaninidesign"
 
+
+- name: "Paula Maris"
+  voluntary: true
+  labels: [women, lgbt]
+  avatar: "paula_maris.jpeg"
+  location: "São Paulo - SP"
+  skills: [Designer, Desenvolvedora, Fotógrafa, Música, Arte Gráfica]
+  email: "paulamarisk@gmail.com"
+  instagram: "https://instagram.com/maris.sketch"
+
