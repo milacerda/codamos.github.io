@@ -1581,4 +1581,14 @@
   email: "yumi@sintesejr.com.br"
   instagram: "https://instagram.com/yumilia"
 
-
+- name: "Amynata Nepomuceno"
+  voluntary: true
+  labels: [women, poc, lgbt]
+  avatar: "amynata_nepomuceno.jpg"
+  location: "S?o Paulo - SP"
+  skills: [Designer, Bonita Profissional, Wannabe Desenvolvedora]
+  email: "amynepomuc@gmail.com"
+  site: "http://amynata-n.com"
+  linkedin: "amynatan"
+  instagram: "https://instagram.com/amynata_n"
+  github: "amynatan"
