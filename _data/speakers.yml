@@ -1572,3 +1572,13 @@
   email: "paulamarisk@gmail.com"
   instagram: "https://instagram.com/maris.sketch"
 
+- name: "Yumi Morimoto"
+  voluntary: true
+  labels: [women]
+  avatar: "yumi-morimoto.jpg"
+  location: "São Paulo - SP"
+  skills: [Desenvolvedora, Gestão]
+  email: "yumi@sintesejr.com.br"
+  instagram: "https://instagram.com/yumilia"
+
+
