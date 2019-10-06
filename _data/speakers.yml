@@ -84,6 +84,18 @@
     Em transição pra programação <3 Amo ajudar pessoas, de qualquer jeito, a qualquer momento!
   linkedin: "amanda-pesarini-11777275"
 
+- name: "Amynata Nepomuceno"
+  voluntary: true
+  labels: [women, poc, lgbt]
+  avatar: "amynata_nepomuceno.jpg"
+  location: "São Paulo - SP"
+  skills: [Designer, Bonita Profissional, Wannabe Desenvolvedora]
+  email: "amynepomuc@gmail.com"
+  site: "http://amynata-n.com"
+  linkedin: "amynatan"
+  instagram: "https://instagram.com/amynata_n"
+  github: "amynatan"
+
 - name: "Ana Eliza Freitas"
   mentor: true
   labels: [women, parent]
@@ -383,6 +395,18 @@
   linkedin: "diego-cardoso-garcia"
   github: "dcgblack"
   twitter: "diego_cgarcia"
+
+- name: "Diego Zanini"
+  speaker: true
+  labels: [men]
+  avatar: "diego_zanini.jpg"
+  location: "São Paulo - SP"
+  skills: [Design, Social Media, Digital Art, Vegetariano]
+  bio: >
+    Photoshoper, professor de design gráfico, freelancer, vegetariano, apaixonado por filmes, músicas, fotos, pets e séries.
+  email: "dizanini@gmail.com"
+  site: "https://zaninidesign.com.br"
+  facebook: "zaninidesign"
 
 - name: "Douglas Williams Palheta da Conceição"
   voluntary: true
@@ -1120,6 +1144,15 @@
   github: "gss-patricia"
   twitter: "paty_go"
 
+- name: "Paula Maris"
+  voluntary: true
+  labels: [women, lgbt]
+  avatar: "paula_maris.jpeg"
+  location: "São Paulo - SP"
+  skills: [Designer, Desenvolvedora, Fotógrafa, Música, Arte Gráfica]
+  email: "paulamarisk@gmail.com"
+  instagram: "https://instagram.com/maris.sketch"
+
 - name: "Paullo Norato"
   speaker: true
   email: "norato.ux@gmail.com"
@@ -1352,6 +1385,18 @@
   linkedin: "thaís-freitas-056b1540"
   twitter: "tha_ta"
 
+- name: "Thaís de Lima Freitas"
+  voluntary: true
+  labels: [women]
+  avatar: "thais_de_lima_freitas.jpg"
+  location: "São Paulo - SP"
+  skills: [Desenvolvedora, Front-End, Segurança da Informação, Wordpress, Infra, Redes]
+  email: "thaistlf25@gmail.com"
+  site: "https://inftektecnologia.com.br/"
+  linkedin: "thaislimafreitasa"
+  twitter: "will_gothic_Tha"
+  facebook: "thaisdelima.will"
+
 - name: "Thaysa Mara Monteiro dos Santos"
   speaker: true
   email: "thaysamarasantos@gmail.com"
@@ -1493,6 +1538,15 @@
   twitter: "YankaSantosOn"
   facebook: "yanka.santos.754"
 
+- name: "Yumi Morimoto"
+  voluntary: true
+  labels: [women]
+  avatar: "yumi-morimoto.jpg"
+  location: "São Paulo - SP"
+  skills: [Desenvolvedora, Gestão]
+  email: "yumi@sintesejr.com.br"
+  instagram: "https://instagram.com/yumilia"
+
 - name: "Melaine Miranda"
   speaker: true
   labels: [women]
@@ -1536,59 +1590,3 @@
   linkedin: "in/rita-lino/"
   github: "ritalino"
   twitter: "ritalinux"
-
-- name: "Thaís de Lima Freitas"
-  voluntary: true
-  labels: [women]
-  avatar: "thais_de_lima_freitas.jpg"
-  location: "São Paulo - SP"
-  skills: [Desenvolvedora, Front-End, Segurança da Informação, Wordpress, Infra, Redes]
-  email: "thaistlf25@gmail.com"
-  site: "https://inftektecnologia.com.br/"
-  linkedin: "thaislimafreitasa"
-  twitter: "will_gothic_Tha"
-  facebook: "thaisdelima.will"
-
-
-- name: "Diego Zanini"
-  speaker: true
-  labels: [men]
-  avatar: "diego_zanini.jpg"
-  location: "São Paulo - SP"
-  skills: [Design, Social Media, Digital Art, Vegetariano]
-  bio: >
-    Photoshoper, professor de design gráfico, freelancer, vegetariano, apaixonado por filmes, músicas, fotos, pets e séries.
-  email: "dizanini@gmail.com"
-  site: "https://zaninidesign.com.br"
-  facebook: "zaninidesign"
-
-
-- name: "Paula Maris"
-  voluntary: true
-  labels: [women, lgbt]
-  avatar: "paula_maris.jpeg"
-  location: "São Paulo - SP"
-  skills: [Designer, Desenvolvedora, Fotógrafa, Música, Arte Gráfica]
-  email: "paulamarisk@gmail.com"
-  instagram: "https://instagram.com/maris.sketch"
-
-- name: "Yumi Morimoto"
-  voluntary: true
-  labels: [women]
-  avatar: "yumi-morimoto.jpg"
-  location: "São Paulo - SP"
-  skills: [Desenvolvedora, Gestão]
-  email: "yumi@sintesejr.com.br"
-  instagram: "https://instagram.com/yumilia"
-
-- name: "Amynata Nepomuceno"
-  voluntary: true
-  labels: [women, poc, lgbt]
-  avatar: "amynata_nepomuceno.jpg"
-  location: "S?o Paulo - SP"
-  skills: [Designer, Bonita Profissional, Wannabe Desenvolvedora]
-  email: "amynepomuc@gmail.com"
-  site: "http://amynata-n.com"
-  linkedin: "amynatan"
-  instagram: "https://instagram.com/amynata_n"
-  github: "amynatan"
